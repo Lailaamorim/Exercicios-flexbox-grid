@@ -4,7 +4,7 @@
 
 > Evolução e conhecimento é tudo!
 
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io//)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/Exercicios-flexbox-grid/)
 
 ## 🙂Tecnologias
 
